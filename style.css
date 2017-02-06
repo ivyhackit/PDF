@@ -1,0 +1,21 @@
+ .light {
+ 	color: #7d97ad;
+ }
+
+ .dark {
+ 	color: #2d3c49;
+ }
+
+ body {
+ 	font-family: 'Lato', sans-serif;
+ 	width: 100%;
+ }
+
+ img {
+ 	max-width: 100%;
+    height: auto;
+ }
+
+ .border {
+ 	border-bottom: 4px #7d97ad;
+ }
